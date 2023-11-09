@@ -19,4 +19,5 @@ You can win by :
 - A mode to play with 3 different AI of different level (from no learning at all to very difficult to get 10 wins)
 - Awesome graphics
 
-
+## Credits
+This was done with the help of [NoEducation](https://www.youtube.com/@noeducation_)
